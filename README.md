@@ -18,7 +18,7 @@ python delete_video.py
 python delete_video.py --dir=/mnt/e/Amusements/VideoEditting/materials/Videos
 ```
 
--- `--time`: 削除する再生時間上限の指定
+- `--time`: 削除対象ファイルの再生時間上限
 
 ```sh
 python delete_video.py --dir=/mnt/e/Amusements/VideoEditting/materials/Videos --time=30
