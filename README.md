@@ -1,4 +1,4 @@
-# delete-video
+# short-video-remover
 
 指定の再生時間（デフォルトでは60秒）以下の動画を削除する Python ファイル。
 
